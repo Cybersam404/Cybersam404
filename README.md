@@ -26,7 +26,7 @@ I'm currently transitioning into cybersecurity and building a solid foundation t
 ## 🌐 My Website
 
 - **Website:** https://cybersamsec.com
-- **GitHub Site:** *(I'll update this when you send the correct link.)*
+- **GitHub Site:** *(I'll update this when available.)*
 
 ## 💬 Ask Me About
 
