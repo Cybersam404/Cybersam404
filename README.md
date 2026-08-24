@@ -85,14 +85,5 @@ I'm currently transitioning into cybersecurity and building a solid foundation t
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersam404&show_icons=true&locale=en&layout=compact" alt="cybersam404"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersam404&show_icons=true&locale=en" alt="cybersam404"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersam404" alt="cybersam404"/></p>
-
----
 
 <h3 align="center">⚡ Learning one step at a time.</h3>
